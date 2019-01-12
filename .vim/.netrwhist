@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/brnaka/Programacao/C#/C#QuickSyntax/Class'
+let g:netrw_dirhist_2='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/config'
+let g:netrw_dirhist_3='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/routes'
+let g:netrw_dirhist_4='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/wwwroot'
+let g:netrw_dirhist_5='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/src/js/functions'
+let g:netrw_dirhist_6='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/src'
+let g:netrw_dirhist_7='/home/brnaka/Programacao/JavaScript/NodeScripts/Express_in_Action/GetYourLink/src/js/functions'
+let g:netrw_dirhist_8='/home/brnaka/node_modules/uikit'
